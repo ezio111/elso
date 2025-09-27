@@ -1,4 +1,5 @@
-# rajzolj egy tetszőleges alakzatot ami nem háromszög és nyégszög
+# rajzolj egy tetszőleges alakzatot ami nem háromszög és néygszög
+# tanuló neptun kód: WNT9SB
 import turtle
 
 def rajzol():
