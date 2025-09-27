@@ -16,3 +16,12 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+import  p022
+
+a=4
+b=3
+eredmeny= p022.negyszog(a, b)
+print(f"A  {eredmeny[2]} kerület =",eredmeny[0])
+print(f"A  {eredmeny[2]} terület =",eredmeny[1])
